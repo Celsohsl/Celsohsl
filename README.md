@@ -5,9 +5,9 @@
 
 
 - 🔭 Atualmente trabalho como Aux.Técnico de Eletrônica, mas estou estudando para me tornar um profissional de programação.
-- 🌱 Cursei Front-End básico: Html5 | Css3 | JavaScript, continuo estudando Front-End para aprimorar minhas habilidades.
+- 🌱 Cursei Front-End Html5 | Css3 | JavaScript, continuo estudando Front-End para aprimorar minhas habilidades.
 - 😄 ele/dele
-- ⚡ Estou seguindo meu sonho, estou estudando e batalhando para aprender boa prática de programação, e ser um bom programador, buscando aprender sempre mais.
+- ⚡ Estou seguindo meu sonho, estou estudando e me esforçando, para adquirir conhecimento e aprender boa prática de programação, e ser um bom programador, buscando aprender sempre mais.
 
 <div align="center">
   <a href="https://github.com/Celsohsl">
