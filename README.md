@@ -28,13 +28,9 @@
 ##
      
  
-
 <div>     
   <a href = "mailto:celsohsl@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="http://linkedin.com/in/celso-henrique-da-silva-lacerda-62b2ab227" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-     
-![Snake animation](https://github.com/Celsohsl/Celsohsl/blob/output/github-contribution-grid-snake.svg)   
-      
+  <a href="https://www.linkedin.com/in/celso-henrique-da-silva-lacerda-front-end/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>    
       
       
