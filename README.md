@@ -13,10 +13,14 @@
 
 <div align="center">
   <a href="https://github.com/Celsohsl"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Celsohsl&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Celsohsl&layout=compact&langs_count=7&theme=graywhite"/>
+  <img height="160em" alt="Celsohsl's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Celsohsl?cardType=github&theme=github-dark&Background=3E3C3C&Text=BBBBBB&Title=2BD9A6D4" /> 
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Celsohsl&layout=compact&langs_count=7&theme=gotham"/>
 </div>
      
+#
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Celsohsl&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 #
     
 <div    
@@ -27,11 +31,12 @@
 </div>
      
 #
- 
+
 <div>     
   <a href = "mailto:celsohsl@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/celso-henrique-da-silva-lacerda-front-end/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>    
-      
-      
+
+ 
+
     
