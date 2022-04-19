@@ -13,7 +13,7 @@
 
 <div align="center">
   <a href="https://github.com/Celsohsl"/>
-  <img height="160em" alt="Celsohsl's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Celsohsl?cardType=github&theme=github-dark&Background=3E3C3C&Text=BBBBBB&Title=2BD9A6D4" /> 
+  <img height="160em" alt="Celsohsl's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Celsohsl?cardType=github&theme=dracula&Text=8D973E&Title=F5F5F5&Border=FFFFFF&Ring=72C1FF" />   
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Celsohsl&layout=compact&langs_count=7&theme=gotham"/>
 </div>
      
