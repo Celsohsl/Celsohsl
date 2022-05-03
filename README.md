@@ -1,13 +1,15 @@
-     
+<img align="right" height="300em" width="300em" src="https://user-images.githubusercontent.com/95981981/166399631-3efd4cee-654b-41bd-9a28-d8c08d735b2a.png"/>
     
-
 ##  Olá! Eu sou o Celsohsl 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Celsohsl&color=blue" alt="Profile views" /> </p>
 
 - 🔭 Atualmente trabalho como Aux.Técnico de Eletrônica, mas estou estudando para migrar de carreira e  me tornar um profissional de programação.
+
 - 🌱 Cursei Front-End Html5 | Css3 | JavaScript, continuo estudando Front-End para aprimorar minhas habilidades.
+
 - 😄 ele/dele
-- ⚡ Estou seguindo meu sonho, estou estudando e me esforçando, para adquirir conhecimento e aprender boa prática de programação, e ser um bom programador, buscando aprender sempre mais.
+
+- ⚡ Estou estudando e me esforçando, para adquirir conhecimento e aprender boa prática de programação, e ser um bom programador, buscando aprender sempre mais.
 
 #
 
