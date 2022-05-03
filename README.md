@@ -2,7 +2,7 @@
     
 
 ##  Olá! Eu sou o Celsohsl 👋
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Celsohsl&color=blue" alt="Profile views" /> </p>
 
 - 🔭 Atualmente trabalho como Aux.Técnico de Eletrônica, mas estou estudando para migrar de carreira e  me tornar um profissional de programação.
 - 🌱 Cursei Front-End Html5 | Css3 | JavaScript, continuo estudando Front-End para aprimorar minhas habilidades.
