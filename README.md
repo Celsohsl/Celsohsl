@@ -3,13 +3,13 @@
 ##  Olá! Eu sou o Celsohsl 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Celsohsl&color=blue" alt="Profile views" /> </p>
 
-- 🔭 Atualmente trabalho como Aux.Técnico de Eletrônica, mas estou estudando para migrar de carreira e  me tornar um profissional de programação.
+- 🔭 Atualmente trabalho em uma empresa de caixa eletrônico ATM no Japão, mas estou estudando para migrar de carreira e me tornar um profissional de Tecnologia.
 
-- 🌱 Cursei Front-End básico Html5 | Css3 | JavaScript pelo senac, e atualmente continuo estudando Front-End através da plataforma alura, para aprimorar minhas habilidades e obetr novos conhecimentos.
+- 🌱 Cursei Front-End básico Html5 | Css3 | JavaScript pelo senac, cursei Front-End através da plataforma alura pelo programa ONE, para aprimorar minhas habilidades e obetr novos conhecimentos.
+
+- 📚 Estou no momento no 3º semestre de graduação no curso de Tecnologia da Informação pela Universidade Federal do Mato Grosso do Sul (UFMS).
 
 - 😄 ele/dele
-
-- ⚡ Estou estudando e me esforçando, para adquirir conhecimento e aprender boa prática de programação, e ser um bom programador, buscando aprender sempre mais.
 
 #
 
