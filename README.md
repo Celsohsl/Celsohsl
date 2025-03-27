@@ -7,7 +7,7 @@
 
 - 🌱 Cursei Front-End básico Html5 | Css3 | JavaScript pelo senac, cursei Front-End através da plataforma alura pelo programa ONE, para aprimorar minhas habilidades e obetr novos conhecimentos.
 
-- 📚 Estou no momento no 3º semestre de graduação no curso de Tecnologia da Informação pela Universidade Federal do Mato Grosso do Sul (UFMS).
+- 📚 Estou no momento no 5º semestre de graduação no curso de Tecnologia da Informação pela Universidade Federal do Mato Grosso do Sul (UFMS).
 
 - 😄 ele/dele
 
